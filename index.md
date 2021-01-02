@@ -29,3 +29,4 @@ Crea con Postman un crud a la Api de películas
 En el archivo peliculas.json estan todas las peliculas. 
 Cuando leas el codigo veras la funcion print pelis que crean la tabla de las peliculas en orden. 
 hacemos las constantes del ID, Nombre, Director y Clasificacion. 
+-Puedes encontrar todo el repositorio en: https://github.com/Nau-crc/ApiPelis
